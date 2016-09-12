@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 dwitri.rhaiza StafCS 4096 Sep 13 00:23 .
+drwx--x--x  3 dwitri.rhaiza StafCS 4096 Sep 13 00:12 ..
+drwxr-xr-x  8 dwitri.rhaiza StafCS 4096 Sep 13 00:21 .git
+-rw-r--r--  1 dwitri.rhaiza StafCS    0 Sep 13 00:23 lab01.txt
+-rw-r--r--  1 dwitri.rhaiza StafCS    7 Sep 13 00:12 README.md
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:16 SandBox
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:17 week00
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week01
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week02
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week03
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week04
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week05
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:13 week06
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:14 week07
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:14 week08
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:14 week09
+drwxr-xr-x  2 dwitri.rhaiza StafCS 4096 Sep 13 00:14 week10
+/home/fasilkom/mahasiswa/d/dwitri.rhaiza/os162/week01
