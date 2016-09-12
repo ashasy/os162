@@ -1,0 +1,8 @@
+# Dwitri Rhaiza A.
+
+The task is about CLI, GIT, and Scripting.
+1. We have to Clone Git Repository
+2. After that we will be introduced to GIT by making directories and files
+then learning how to push
+3. We will be introduced to CLI and learning how to pull
+4. And the last, we will be introduced to Scripting.
